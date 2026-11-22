@@ -1,18 +1,12 @@
-# my-project
+#1. Mô tả bài toán
+Viết chương trình nhập giá tiền và số lượng sản phẩm. Sau đó tính tổng tiền phải trả.
 
-## Giới thiệu
-Dự án mới.
+Công thức: Tổng tiền = Giá tiền × Số lượng.
 
-## Chức năng
-- Nhập hai số nguyên.
-- Tính tổng hai số.
-- Hiển thị kết quả trên màn hình.
 
-## Ngôn ngữ
-- C++
-
-## Công cụ
-- Dev-C++
-
-## Tác giả
-Xuann Hieuu
+#2. Cách chạy chương trình
+1. Mở Dev-C++.
+2. Tạo file mới và nhập code.
+3. Lưu tên tinh_tien.cpp.
+4. Nhấn F11 để chạy.
+5. Nhập giá tiền và số lượng, nhấn Enter để xem kết quả.
