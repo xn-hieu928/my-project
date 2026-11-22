@@ -3,18 +3,17 @@
 using namespace std;
 
 int main() {
-    int a, b;
+    int giaTien, soLuong, tongTien;
 
-    cout << "Nhap so thu nhat: ";
-    cin >> a;
+    cout << "Nhap gia tien: ";
+    cin >> giaTien;
 
-    cout << "Nhap so thu hai: ";
-    cin >> b;
+    cout << "Nhap so luong: ";
+    cin >> soLuong;
 
-    int tong = a + b;
+    tongTien = giaTien * soLuong;
 
-    cout << "Tong hai so la: " << tong << endl;
+    cout << "Tong tien phai tra: " << tongTien;
 
     return 0;
 }
-
