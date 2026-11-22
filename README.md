@@ -1,7 +1,7 @@
 # my-project
 
 ## Giới thiệu
-Đây là dự án C++ đầu tiên của tôi.
+Dự án mới.
 
 ## Chức năng
 - Nhập hai số nguyên.
