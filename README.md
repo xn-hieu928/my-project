@@ -1,5 +1,5 @@
-#1. Mô tả bài toán
-Viết chương trình nhập giá tiền và số lượng sản phẩm. Sau đó tính tổng tiền phải trả.
+#1. Mô tả bài toán:
+Chương trình nhập giá tiền và số lượng sản phẩm. Sau đó tính tổng tiền phải trả.
 
 Công thức: Tổng tiền = Giá tiền × Số lượng.
 
